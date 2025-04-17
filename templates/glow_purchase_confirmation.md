@@ -76,10 +76,13 @@
                 <p style="margin-top: 0; margin-bottom: 12px; font-size: 14px; color: white; font-weight: 500;">How to Redeem Your Glow:</p>
                 <ol style="margin: 0; padding: 0 0 0 20px; color: #a0a0a0; font-size: 14px; line-height: 1.5;">
                     <li style="margin-bottom: 8px;">Log in to your haze.bio account</li>
-                    <li style="margin-bottom: 8px;">Go to <strong style="color: #d1d1d1;">Settings → Billing → Redeem Code</strong></li>
+                    <li style="margin-bottom: 8px;">Go to <a href="https://haze.bio/dashboard/settings?tab=account" style="color: #8B5CF6; text-decoration: none; font-weight: 500;">Settings → Billing → Redeem Code</a></li>
                     <li style="margin-bottom: 8px;">Enter your redemption code</li>
                     <li style="margin-bottom: 0;">Your Glow balance will be instantly updated!</li>
                 </ol>
+                <div style="text-align: center; margin-top: 16px;">
+                    <a href="https://haze.bio/dashboard/settings?tab=account" style="display: inline-block; background-color: #7c3aed; color: white; font-weight: 500; font-size: 14px; padding: 10px 20px; border-radius: 8px; text-decoration: none; transition: background-color 0.2s;">Redeem Your Code Now</a>
+                </div>
             </div>
             
             <div style="background-color: rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 16px; margin-bottom: 24px; border: 1px solid rgba(255, 255, 255, 0.05);">
