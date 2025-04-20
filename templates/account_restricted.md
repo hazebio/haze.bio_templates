@@ -10,7 +10,7 @@
 <body style="margin: 0; padding: 0; background-color: #0f0f0f; color: #e0e0e0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <div style="max-width: 600px; margin: 0 auto; background-color: #141414; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.1); overflow: hidden; margin-top: 20px; margin-bottom: 20px;">
         <div style="background-color: rgba(239, 68, 68, 0.1); padding: 20px; text-align: center; border-bottom: 1px solid rgba(255, 255, 255, 0.05);">
-            <img src="https://haze.bio/logo.png" alt="haze.bio" style="height: 32px; margin-bottom: 10px;">
+            <img src="https://cdn.haze.bio/logo.png" alt="haze.bio" style="height: 32px; margin-bottom: 10px;">
             <h1 style="margin: 0; color: white; font-size: 24px; font-weight: 600;">Account Restricted</h1>
         </div>
 
