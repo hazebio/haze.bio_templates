@@ -36,7 +36,7 @@
                 <p style="margin-top: 0; margin-bottom: 12px; font-size: 14px; color: white; font-weight: 500;">What's Next:</p>
                 <ul style="margin: 0; padding: 0 0 0 20px; color: #a0a0a0; font-size: 14px; line-height: 1.5;">
                     <li>Log in to your account at <a href="https://haze.bio/login" style="color: #22c55e; text-decoration: none;">haze.bio/login</a></li>
-                    <li>Review our <a href="https://haze.bio/legal/tos" style="color: #22c55e; text-decoration: none;">Community Guidelines</a> to prevent future issues</li>
+                    <li>Review our <a href="https://haze.bio/guidelines" style="color: #22c55e; text-decoration: none;">Community Guidelines</a> to prevent future issues</li>
                     <li>Update your profile or settings if needed</li>
                 </ul>
             </div>
@@ -44,7 +44,7 @@
             <div style="background-color: rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 16px; margin-bottom: 24px; border: 1px solid rgba(255, 255, 255, 0.05);">
                 <p style="margin-top: 0; margin-bottom: 12px; font-size: 14px; color: white; font-weight: 500;">Community Guidelines Reminder:</p>
                 <p style="margin: 0; color: #a0a0a0; font-size: 14px; line-height: 1.5;">
-                    We encourage you to review our <a href="https://haze.bio/legal/tos" style="color: #22c55e; text-decoration: none;">Community Guidelines</a> and <a href="https://haze.bio/legal/tos" style="color: #22c55e; text-decoration: none;">Terms of Service</a> to ensure your future activity continues to comply with our policies.
+                    We encourage you to review our <a href="https://haze.bio/guidelines" style="color: #22c55e; text-decoration: none;">Community Guidelines</a> and <a href="https://haze.bio/legal/tos" style="color: #22c55e; text-decoration: none;">Terms of Service</a> to ensure your future activity continues to comply with our policies.
                 </p>
             </div>
         </div>
